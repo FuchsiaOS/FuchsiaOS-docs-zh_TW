@@ -14,6 +14,14 @@ documentation.
  - [專案庫結構](map.md)
  - [Contributing changes](CONTRIBUTING.md)
 
+Fuchsia OS 中文社群
+
+- 網站 https://fuchsia-china.com
+- 論壇 https://forum.fuchsia-china.com/
+- Telegram https://t.me/FuchsiaOSzh
+- QQ 群：788645873
+- 微信：https://fuchsia-china.com/join
+
 Other files in this repository are **system-wide** documentation articles for
 Fuchsia. **Individual subprojects** have their own documentation within each
 project repository. The articles above link to Individual documents both within
